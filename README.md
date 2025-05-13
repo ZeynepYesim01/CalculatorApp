@@ -25,12 +25,12 @@
   Windows Forms Designer (Visual Studio)
 
   # Görseller
-   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170040.png)
-   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170118.png)
-   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170138.png)
-   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170213.png)  
-   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170232.png)
-Assets/Ekran görüntüsü 2025-05-13 170040.png
+   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170040.png)
+   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170118.png)
+   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170138.png)
+   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170213.png)  
+   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170232.png)
+
   # Kurulum
     Bu projeyi indir veya klonla:
           git clone https://github.com/kullanici-adin/proje-adi.git
