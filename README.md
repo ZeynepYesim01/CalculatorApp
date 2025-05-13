@@ -25,13 +25,11 @@
   Windows Forms Designer (Visual Studio)
 
   # Görseller
-  ![Not Defteri Görseli](Assets/1.png)
-
-  ![Not Defteri Görseli](Assets/2.png)
-  
-  ![Not Defteri Görseli](Assets/3.png)
-
-  ![Not Defteri Görseli](Assets/4.png)
+   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170040.png)
+   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170118.png)
+   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170138.png)
+   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170213.png)  
+   ![Calculator App photos](Assets/Ekran görüntüsü 2025-05-13 170232.png)
 
   # Kurulum
     Bu projeyi indir veya klonla:
