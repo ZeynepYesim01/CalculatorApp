@@ -25,17 +25,16 @@
   Windows Forms Designer (Visual Studio)
 
   # Görseller
-   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170040.png)
-   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170118.png)
-   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170138.png)
-   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170213.png)  
-   ![Calculator App photos](ekran görüntüleri/Ekran görüntüsü 2025-05-13 170232.png)
+   ![Standart hesap makinesi](Assets/7.png)
+   ![Bilimsel hesap makinesi](Assets/8.png)
+   ![Grafik oluşturma](Assets/9.png)
+   ![Programlayıcı Hesap makinesi](Assets/10.png)
+   ![Tarih hesaplayıcı](Assets/11.png)  
+ 
 
   # Kurulum
-    Bu projeyi indir veya klonla:
-          git clone https://github.com/kullanici-adin/proje-adi.git
-    Visual Studio ile aç.
-    Gerekli NuGet paketlerini yükle (eğer varsa).
+    Bu projeyi indir
+    Visual Studio ile aç
     Uygulamayı çalıştır .
 
   # Lisans
